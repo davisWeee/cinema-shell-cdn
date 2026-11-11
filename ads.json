@@ -1,0 +1,56 @@
+{
+  "settings": {
+    "enabled": true,
+    "preroll": true,
+    "pause": true,
+    "endroll": true,
+    "minIntervalSec": 120,
+    "pauseMinIntervalSec": 60,
+    "pauseDelayMs": 2500,
+    "dailyCap": 20
+  },
+  "ads": [
+    {
+      "id": "lp-site",
+      "t": "轻播 LitePlay · 简洁安卓播放器",
+      "b": "支持本地视频、m3u8、外挂字幕、续播与画中画，约 1.9MB。",
+      "c": "查看介绍",
+      "u": "https://davisweee.github.io/liteplay/",
+      "c1": "#1F883D",
+      "c2": "#0B5D5E"
+    },
+    {
+      "id": "lp-release",
+      "t": "轻播 LitePlay 1.2.0 发布说明",
+      "b": "查看更新内容与安装包校验值（SHA-256），核对后再安装。",
+      "c": "查看发布页",
+      "u": "https://github.com/davisWeee/liteplay/releases/latest",
+      "c1": "#0969DA",
+      "c2": "#6E40C9"
+    },
+    {
+      "id": "lp-repo",
+      "t": "轻播 LitePlay · GitHub 页面",
+      "b": "在 GitHub 查看说明与历史版本（1.0.0 至 1.2.0）。",
+      "c": "打开页面",
+      "u": "https://github.com/davisWeee/liteplay",
+      "c1": "#24292F",
+      "c2": "#57606A"
+    }
+  ],
+  "sdk": {
+    "rev": 1,
+    "enabled": true,
+    "order": [
+      "uniad",
+      "topon"
+    ],
+    "types": {
+      "preroll": true,
+      "reward": true,
+      "episode": true,
+      "exit": true,
+      "splash": true
+    }
+  }
+}
