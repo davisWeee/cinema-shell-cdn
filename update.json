@@ -24,13 +24,13 @@
       ]
     },
     "yingyu": {
-      "versionCode": 1500,
-      "versionName": "1.5.0",
-      "notes": "1.5.0：广告位配置可远程更新。",
+      "versionCode": 1600,
+      "versionName": "1.6.0",
+      "notes": "1.6.0：片源路由远程下发，广告配置/隐私政策/更新通道地址迁移。",
       "force": false,
       "urls": [
-        "https://github.com/davisWeee/cinema-shell/releases/download/v1.5.0-yingyu/yingyu-1.5.0.apk",
-        "https://davisweee.github.io/cinema-shell/dl/yingyu-1.5.0.apk"
+        "https://github.com/davisWeee/cinema-shell/releases/download/v1.6.0-yingyu/yingyu-1.6.0.apk",
+        "https://davisweee.github.io/cinema-shell/dl/yingyu-1.6.0.apk"
       ]
     },
     "zhuiguang": {
