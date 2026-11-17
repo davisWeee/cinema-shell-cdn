@@ -2,14 +2,14 @@
   "app": "cinema-shell",
   "versions": {
     "xinghe": {
-      "versionCode": 1400,
-      "versionName": "1.4.0",
-      "notes": "1.4.0：广告源与广告位可远程切换，新增 Taku 广告源。",
+      "versionCode": 1401,
+      "versionName": "1.4.1",
+      "notes": "1.4.1：更新通道与广告配置迁移到新站点。",
       "force": false,
       "urls": [
-        "https://github.com/davisWeee/cinema-shell/releases/download/v1.4.0/xinghe-1.4.0.apk",
-        "https://cdn.jsdelivr.net/gh/davisWeee/cinema-shell-cdn@main/dl/xinghe-1.4.0.apk",
-        "https://davisweee.github.io/cinema-shell/dl/xinghe-1.4.0.apk"
+        "https://github.com/davisWeee/cinema-shell/releases/download/v1.4.1/xinghe-1.4.1.apk",
+        "https://cdn.jsdelivr.net/gh/davisWeee/cinema-shell-cdn@main/dl/xinghe-1.4.1.apk",
+        "https://davisweee.github.io/cinema-shell/dl/xinghe-1.4.1.apk"
       ]
     },
     "chiyan": {
